@@ -1,0 +1,308 @@
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=0: 1
+ct2=0: 1 - 1 / score= 0
+ct2=1: 2 - 1 / score= 1
+ct2=2: 1 - 1 / score= 1
+ct2=3: 2 - 1 / score= 2
+ct2=4: 1 - 1 / score= 2
+ct2=5: 1 - 1 / score= 2
+ct2=6: 1 - 1 / score= 2
+ct2=7: 1 - 1 / score= 2
+ct2=8: 1 - 1 / score= 2
+ct2=9: 1 - 1 / score= 2
+   score final= 2  /  BestScore= 999
+Best Friend = 1
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=1: 2
+ct2=0: 1 - 2 / score= 1
+ct2=1: 2 - 2 / score= 1
+ct2=2: 1 - 2 / score= 2
+ct2=3: 2 - 2 / score= 2
+ct2=4: 1 - 2 / score= 3
+ct2=5: 1 - 2 / score= 4
+ct2=6: 1 - 2 / score= 5
+ct2=7: 1 - 2 / score= 6
+ct2=8: 1 - 2 / score= 7
+ct2=9: 1 - 2 / score= 8
+   score final= 8  /  BestScore= 2
+Best Friend = 1
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=2: 3
+ct2=0: 1 - 3 / score= 2
+ct2=1: 2 - 3 / score= 3
+ct2=2: 1 - 3 / score= 5
+ct2=3: 2 - 3 / score= 6
+ct2=4: 1 - 3 / score= 8
+ct2=5: 1 - 3 / score= 10
+ct2=6: 1 - 3 / score= 12
+ct2=7: 1 - 3 / score= 14
+ct2=8: 1 - 3 / score= 16
+ct2=9: 1 - 3 / score= 18
+   score final= 18  /  BestScore= 2
+Best Friend = 1
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=3: NaN
+ct2=0: 1 - 4 / score= 3
+ct2=1: 2 - 4 / score= 5
+ct2=2: 1 - 4 / score= 8
+ct2=3: 2 - 4 / score= 10
+ct2=4: 1 - 4 / score= 13
+ct2=5: 1 - 4 / score= 16
+ct2=6: 1 - 4 / score= 19
+ct2=7: 1 - 4 / score= 22
+ct2=8: 1 - 4 / score= 25
+ct2=9: 1 - 4 / score= 28
+   score final= 28  /  BestScore= 2
+Best Friend = 1
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=4: NaN
+ct2=0: 1 - 5 / score= 4
+ct2=1: 2 - 5 / score= 7
+ct2=2: 1 - 5 / score= 11
+ct2=3: 2 - 5 / score= 14
+ct2=4: 1 - 5 / score= 18
+ct2=5: 1 - 5 / score= 22
+ct2=6: 1 - 5 / score= 26
+ct2=7: 1 - 5 / score= 30
+ct2=8: 1 - 5 / score= 34
+ct2=9: 1 - 5 / score= 38
+   score final= 38  /  BestScore= 2
+Best Friend = 1
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=0: 1
+ct2=0: 2 - 1 / score= 1
+ct2=1: 1 - 1 / score= 1
+ct2=2: 2 - 1 / score= 2
+ct2=3: 1 - 1 / score= 2
+ct2=4: 2 - 1 / score= 3
+ct2=5: 2 - 1 / score= 4
+ct2=6: 2 - 1 / score= 5
+ct2=7: 2 - 1 / score= 6
+ct2=8: 2 - 1 / score= 7
+ct2=9: 2 - 1 / score= 8
+   score final= 8  /  BestScore= 999
+Best Friend = 1
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=1: 2
+ct2=0: 2 - 2 / score= 0
+ct2=1: 1 - 2 / score= 1
+ct2=2: 2 - 2 / score= 1
+ct2=3: 1 - 2 / score= 2
+ct2=4: 2 - 2 / score= 2
+ct2=5: 2 - 2 / score= 2
+ct2=6: 2 - 2 / score= 2
+ct2=7: 2 - 2 / score= 2
+ct2=8: 2 - 2 / score= 2
+ct2=9: 2 - 2 / score= 2
+   score final= 2  /  BestScore= 8
+Best Friend = 2
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=2: 3
+ct2=0: 2 - 3 / score= 1
+ct2=1: 1 - 3 / score= 3
+ct2=2: 2 - 3 / score= 4
+ct2=3: 1 - 3 / score= 6
+ct2=4: 2 - 3 / score= 7
+ct2=5: 2 - 3 / score= 8
+ct2=6: 2 - 3 / score= 9
+ct2=7: 2 - 3 / score= 10
+ct2=8: 2 - 3 / score= 11
+ct2=9: 2 - 3 / score= 12
+   score final= 12  /  BestScore= 2
+Best Friend = 2
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=3: NaN
+ct2=0: 2 - 4 / score= 2
+ct2=1: 1 - 4 / score= 5
+ct2=2: 2 - 4 / score= 7
+ct2=3: 1 - 4 / score= 10
+ct2=4: 2 - 4 / score= 12
+ct2=5: 2 - 4 / score= 14
+ct2=6: 2 - 4 / score= 16
+ct2=7: 2 - 4 / score= 18
+ct2=8: 2 - 4 / score= 20
+ct2=9: 2 - 4 / score= 22
+   score final= 22  /  BestScore= 2
+Best Friend = 2
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=4: NaN
+ct2=0: 2 - 5 / score= 3
+ct2=1: 1 - 5 / score= 7
+ct2=2: 2 - 5 / score= 10
+ct2=3: 1 - 5 / score= 14
+ct2=4: 2 - 5 / score= 17
+ct2=5: 2 - 5 / score= 20
+ct2=6: 2 - 5 / score= 23
+ct2=7: 2 - 5 / score= 26
+ct2=8: 2 - 5 / score= 29
+ct2=9: 2 - 5 / score= 32
+   score final= 32  /  BestScore= 2
+Best Friend = 2
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=5: NaN
+ct2=0: 2 - 1 / score= 1
+ct2=1: 1 - 2 / score= 2
+ct2=2: 2 - 1 / score= 3
+ct2=3: 1 - 2 / score= 4
+ct2=4: 2 - 1 / score= 5
+ct2=5: 2 - 1 / score= 6
+ct2=6: 2 - 1 / score= 7
+ct2=7: 2 - 1 / score= 8
+ct2=8: 2 - 1 / score= 9
+ct2=9: 2 - 1 / score= 10
+   score final= 10  /  BestScore= 2
+Best Friend = 2
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=0: NaN
+ct2=0: 1 - 1 / score= 0
+ct2=1: 2 - 1 / score= 1
+ct2=2: 1 - 1 / score= 1
+ct2=3: 2 - 1 / score= 2
+ct2=4: 1 - 1 / score= 2
+ct2=5: 1 - 1 / score= 2
+ct2=6: 1 - 1 / score= 2
+ct2=7: 1 - 1 / score= 2
+ct2=8: 1 - 1 / score= 2
+ct2=9: 1 - 1 / score= 2
+   score final= 2  /  BestScore= 999
+Best Friend = Marilyn Monroe
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=1: NaN
+ct2=0: 1 - 2 / score= 1
+ct2=1: 2 - 2 / score= 1
+ct2=2: 1 - 2 / score= 2
+ct2=3: 2 - 2 / score= 2
+ct2=4: 1 - 2 / score= 3
+ct2=5: 1 - 2 / score= 4
+ct2=6: 1 - 2 / score= 5
+ct2=7: 1 - 2 / score= 6
+ct2=8: 1 - 2 / score= 7
+ct2=9: 1 - 2 / score= 8
+   score final= 8  /  BestScore= 2
+Best Friend = Marilyn Monroe
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=2: NaN
+ct2=0: 1 - 3 / score= 2
+ct2=1: 2 - 3 / score= 3
+ct2=2: 1 - 3 / score= 5
+ct2=3: 2 - 3 / score= 6
+ct2=4: 1 - 3 / score= 8
+ct2=5: 1 - 3 / score= 10
+ct2=6: 1 - 3 / score= 12
+ct2=7: 1 - 3 / score= 14
+ct2=8: 1 - 3 / score= 16
+ct2=9: 1 - 3 / score= 18
+   score final= 18  /  BestScore= 2
+Best Friend = Marilyn Monroe
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=3: NaN
+ct2=0: 1 - 4 / score= 3
+ct2=1: 2 - 4 / score= 5
+ct2=2: 1 - 4 / score= 8
+ct2=3: 2 - 4 / score= 10
+ct2=4: 1 - 4 / score= 13
+ct2=5: 1 - 4 / score= 16
+ct2=6: 1 - 4 / score= 19
+ct2=7: 1 - 4 / score= 22
+ct2=8: 1 - 4 / score= 25
+ct2=9: 1 - 4 / score= 28
+   score final= 28  /  BestScore= 2
+Best Friend = Marilyn Monroe
+ = = = = = = = = = =
+New Friend (5): Ed Sheeran  VS.  ct1=4: NaN
+ct2=0: 1 - 5 / score= 4
+ct2=1: 2 - 5 / score= 7
+ct2=2: 1 - 5 / score= 11
+ct2=3: 2 - 5 / score= 14
+ct2=4: 1 - 5 / score= 18
+ct2=5: 1 - 5 / score= 22
+ct2=6: 1 - 5 / score= 26
+ct2=7: 1 - 5 / score= 30
+ct2=8: 1 - 5 / score= 34
+ct2=9: 1 - 5 / score= 38
+   score final= 38  /  BestScore= 2
+Best Friend = Marilyn Monroe
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=0: NaN
+ct2=0: 2 - 1 / score= 1
+ct2=1: 1 - 1 / score= 1
+ct2=2: 2 - 1 / score= 2
+ct2=3: 1 - 1 / score= 2
+ct2=4: 2 - 1 / score= 3
+ct2=5: 2 - 1 / score= 4
+ct2=6: 2 - 1 / score= 5
+ct2=7: 2 - 1 / score= 6
+ct2=8: 2 - 1 / score= 7
+ct2=9: 2 - 1 / score= 8
+   score final= 8  /  BestScore= 999
+Best Friend = Marilyn Monroe
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=1: NaN
+ct2=0: 2 - 2 / score= 0
+ct2=1: 1 - 2 / score= 1
+ct2=2: 2 - 2 / score= 1
+ct2=3: 1 - 2 / score= 2
+ct2=4: 2 - 2 / score= 2
+ct2=5: 2 - 2 / score= 2
+ct2=6: 2 - 2 / score= 2
+ct2=7: 2 - 2 / score= 2
+ct2=8: 2 - 2 / score= 2
+ct2=9: 2 - 2 / score= 2
+   score final= 2  /  BestScore= 8
+Best Friend = Lady Gaga
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=2: NaN
+ct2=0: 2 - 3 / score= 1
+ct2=1: 1 - 3 / score= 3
+ct2=2: 2 - 3 / score= 4
+ct2=3: 1 - 3 / score= 6
+ct2=4: 2 - 3 / score= 7
+ct2=5: 2 - 3 / score= 8
+ct2=6: 2 - 3 / score= 9
+ct2=7: 2 - 3 / score= 10
+ct2=8: 2 - 3 / score= 11
+ct2=9: 2 - 3 / score= 12
+   score final= 12  /  BestScore= 2
+Best Friend = Lady Gaga
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=3: NaN
+ct2=0: 2 - 4 / score= 2
+ct2=1: 1 - 4 / score= 5
+ct2=2: 2 - 4 / score= 7
+ct2=3: 1 - 4 / score= 10
+ct2=4: 2 - 4 / score= 12
+ct2=5: 2 - 4 / score= 14
+ct2=6: 2 - 4 / score= 16
+ct2=7: 2 - 4 / score= 18
+ct2=8: 2 - 4 / score= 20
+ct2=9: 2 - 4 / score= 22
+   score final= 22  /  BestScore= 2
+Best Friend = Lady Gaga
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=4: NaN
+ct2=0: 2 - 5 / score= 3
+ct2=1: 1 - 5 / score= 7
+ct2=2: 2 - 5 / score= 10
+ct2=3: 1 - 5 / score= 14
+ct2=4: 2 - 5 / score= 17
+ct2=5: 2 - 5 / score= 20
+ct2=6: 2 - 5 / score= 23
+ct2=7: 2 - 5 / score= 26
+ct2=8: 2 - 5 / score= 29
+ct2=9: 2 - 5 / score= 32
+   score final= 32  /  BestScore= 2
+Best Friend = Lady Gaga
+ = = = = = = = = = =
+New Friend (6): Katy Perry  VS.  ct1=5: NaN
+ct2=0: 2 - 1 / score= 1
+ct2=1: 1 - 2 / score= 2
+ct2=2: 2 - 1 / score= 3
+ct2=3: 1 - 2 / score= 4
+ct2=4: 2 - 1 / score= 5
+ct2=5: 2 - 1 / score= 6
+ct2=6: 2 - 1 / score= 7
+ct2=7: 2 - 1 / score= 8
+ct2=8: 2 - 1 / score= 9
+ct2=9: 2 - 1 / score= 10
+   score final= 10  /  BestScore= 2
+Best Friend = Lady Gaga
